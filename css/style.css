@@ -3,8 +3,7 @@ html,body{
 }
 
 body{
-  font-size: 12px;
-  line-height: 20px;
+  font:13px/24px 'Lato', sans-serif;
   color: #1d1d1d;
 }
 
